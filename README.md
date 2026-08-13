@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="1400" height="450" alt="Your paragraph text" src="https://github.com/user-attachments/assets/6c3cf6b3-9114-4ec0-9d7e-8779c7201e8e" />
+
 
 <!--
 **sphere20/sphere20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
