@@ -1,5 +1,15 @@
 <img width="1400" height="450" alt="Your paragraph text" src="https://github.com/user-attachments/assets/6c3cf6b3-9114-4ec0-9d7e-8779c7201e8e" />
 
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com/?user=sphere20&theme=dark&hide_border=false&card_width=450&card_height=180"
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
 
 ## 🛠️ Language and Technologies
 
