@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-## 🛠️ Language and Technologies
+<h2>🛠️ Language and Technologies</h2>
 
 <table align="center">
   <tr>
@@ -27,14 +27,17 @@ Here are some ideas to get you started:
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60"/><br>
       C
     </td>
+
     <td align="center" width="150">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60"/><br>
       C++
     </td>
+
     <td align="center" width="150">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60"/><br>
       C#
     </td>
+
     <td align="center" width="150">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/><br>
       Java
@@ -42,37 +45,44 @@ Here are some ideas to get you started:
   </tr>
 
   <tr>
-    <td align="center">
+    <td align="center" width="150">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br>
       Python
     </td>
-    <td align="center">
+
+    <td align="center" width="150">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/><br>
       SQL
     </td>
-    <td align="center">
+
+    <td align="center" width="150">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60"/><br>
       .NET
     </td>
-    <td align="center">
+
+    <td align="center" width="150">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br>
       Git
     </td>
   </tr>
 
   <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/><br>
+    <td align="center" width="150">
+      <img src="https://cdn.simpleicons.org/github/FFFFFF" width="60"/><br>
       GitHub
     </td>
-    <td align="center">
+
+    <td align="center" width="150">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/><br>
       VS Code
     </td>
-    <td align="center">
+
+    <td align="center" width="150">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="60"/><br>
       Trello
     </td>
-    <td></td>
+
+    <td align="center" width="150">
+    </td>
   </tr>
 </table>
