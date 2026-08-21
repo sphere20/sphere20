@@ -16,6 +16,14 @@
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sphere20/sphere20/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
+
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
