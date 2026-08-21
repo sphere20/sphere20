@@ -16,6 +16,15 @@
   />
 </p>
 
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sphere20&bg_color=0d1117&color=ffffff&line=ffd33d&point=c9d1d9&area_color=238636&area=true&hide_border=true&custom_title=Contribution%20Graph" 
+    width="100%"
+  />
+</p>
+
 ## 🛠️ Language and Technologies
 
 <table align="center">
