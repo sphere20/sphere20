@@ -1,5 +1,11 @@
 <img width="1400" height="450" alt="Your paragraph text" src="https://github.com/user-attachments/assets/6c3cf6b3-9114-4ec0-9d7e-8779c7201e8e" />
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sphere20?style=flat-square&logo=github&logoColor=white&label=STARS&color=4c9700">
+  <img src="https://img.shields.io/github/followers/sphere20?style=flat-square&logo=github&logoColor=white&label=FOLLOWERS&color=2874d0">
+  <img src="https://komarev.com/ghpvc/?username=sphere20&label=PROFILE%20VIEWS&color=4c9700&style=flat-square">
+</p>
+
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
